@@ -1,1 +1,1 @@
-This is a test for the auto commit-sync.
+This is a test for the auto commit-sync on mobile.
