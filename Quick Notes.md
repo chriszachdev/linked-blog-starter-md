@@ -1,1 +1,1 @@
-Test from phone, updated from desktop. Testing again from phone. Testing hot
+Test from phone, updated from desktop. Testing again from phone. Testing hotkey
